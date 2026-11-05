@@ -1,0 +1,8 @@
+Same circuit: line
+  SUMMARY cx_total=3 cx_direct=2 cx_indirect=1 cx_unreachable=0 cost_status=COMPLETE estimated_swaps_total=4 extra_cx_equivalents_total=12 total_cx_equivalents=15
+Same circuit: shortcut
+  SUMMARY cx_total=3 cx_direct=3 cx_indirect=0 cx_unreachable=0 cost_status=COMPLETE estimated_swaps_total=0 extra_cx_equivalents_total=0 total_cx_equivalents=3
+Same circuit: disconnected
+  SUMMARY cx_total=3 cx_direct=2 cx_indirect=0 cx_unreachable=1 cost_status=INCOMPLETE_UNREACHABLE estimated_swaps_total=NA extra_cx_equivalents_total=NA total_cx_equivalents=NA
+graph.c source shown: 8227 chars, contains graph_shortest_path: true
+PQC view: circuit svg rendered = true, gate boxes = 6, CX = 1

@@ -1,0 +1,27 @@
+# Build and compiler outputs
+build/
+*.o
+*.obj
+*.exe
+qmlc
+qmlc.exe
+
+# Scratch, intermediate, and temporary files
+tmp/
+artifacts/
+pqc-baseline-eff9baa/
+old-presentation.pdf
+
+# Frontend dependencies and builds
+node_modules/
+presentation/node_modules/
+dist/
+presentation/dist/
+.vite/
+presentation/.vite/
+
+# OS / Editor scratch
+.DS_Store
+Thumbs.db
+*.swp
+*.log
